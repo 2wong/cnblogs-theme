@@ -1,6 +1,6 @@
 {
-    "name": "cnblogs-theme",
-    "version": "2.2.14",
+    "name": "cnblogs-theme-zqx",
+    "version": "2.2.60",
     "description": "<div align=\"center\">",
     "main": "index.js",
     "files": [
@@ -18,15 +18,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wangyang0210/cnblogs-theme.git"
+        "url": "git+https://github.com/2wong/cnblogs-theme.git"
     },
     "keywords": [],
-    "author": "wangyang0210",
+    "author": "2wong",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/wangyang0210/cnblogs-theme/issues"
+        "url": "https://github.com/2wong/cnblogs-theme/issues"
     },
-    "homepage": "https://github.com/wangyang0210/cnblogs-theme#readme",
+    "homepage": "https://github.com/2wong/cnblogs-theme#readme",
     "devDependencies": {
         "@popperjs/core": "^2.9.2",
         "compression-webpack-plugin": "^10.0.0",
